@@ -1,0 +1,15 @@
+# Forms
+## Controlled  
+## ## Updates the state every time an input is changed
+## ## Input are always monitored
+## ## It forces constant re-renders
+
+## Uncontrolled
+## ## Gets information only when is needed
+## ## Re-render only when information is submited
+
+# Prop Drilling
+## When there are to many props to pass along components
+
+# Context API
+## Allows that different components have access to the same props
